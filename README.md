@@ -248,7 +248,7 @@ $$\Delta_{\text{2050 Projection}} = 15.38'' - 10.18'' = \mathbf{+5.20\text{ inch
 ## 👤 Contact & Profiles
 
 * **Developer**: Yordanos Ketema
-* **Email**: [jordanketema2@gmail.com](mailto:jordanketema2@gmail.com)
+* **Email**: [yordanosketema13@gmail.com](mailto:yordanosketema13@gmail.com)
 * **GitHub Profile**: [github.com/yordanos-ketema](https://github.com/yordanos-ketema)
 * **freeCodeCamp Profile**: [freecodecamp.org/fcc-a148f83a-2459-4011-a2cb-5bd811dfe63c](https://www.freecodecamp.org/fcc-a148f83a-2459-4011-a2cb-5bd811dfe63c)
 * **Certification Verification**: [freeCodeCamp Certificate Link](https://freecodecamp.org/certification/fcc-a148f83a-2459-4011-a2cb-5bd811dfe63c/data-analysis-with-python-v7)
